@@ -8,12 +8,14 @@ Decentralized indexes for public genomic data
 
 MinHashes can be used to estimate the similarity of two or more datasets.
 Expanding on the work pioneered by mash and extended in our library Sourmash,
-this poster presents a new data structure based on Sequence Bloom Trees adapted for searching MinHash signatures.
+we calculated signatures for 412 thousand microbial reads datasets on the Sequence Read Archive
+and developed a new data structure based on Sequence Bloom Trees adapted for searching MinHash signatures (named SBTMH).
 
-It also explores how to encode SBTs as objects in a MerkleDAG in IPFS and store it in IPFS,
-a decentralized system for data sharing.
-This allows easy sharing and remixing of indexes,
-including versioning and persistence of data even if the original seeder is gone.
+We also explore how to encode the SBTMH structure as objects in a MerkleDAG and store it in IPFS,
+a decentralized system for data sharing,
+and how to load and spread the SBTMH indexes as well as the signatures calculated.
+The design allows easy sharing and remixing of indexes,
+including versioning, persistence of data and the performance benefits of having many peers sharing data instead of a centralized infrastructure.
 
 <!--
  - Calculate minhashes signatures
