@@ -12,23 +12,12 @@ We explore how to encode the SBTMH structure as objects in a MerkleDAG and store
 
 This design can be extended to change how databases and archives (like the SRA) are offered and implemented, since users can collaborate by choosing to share subsets of the archive and spread the network bandwidth. More important, it avoids the central point of failure, while still allowing for curation and quality assurance of the data. We present a prototype showing how this can be achieved.
 
-<!--
-Additional benefits are versioning, persistence of data and the performance benefits of having many peers sharing data instead of a centralized infrastructure.
-
- - Calculate minhashes signatures
- - How do distribute them?
-  * IPFS and data sharing
- - Efficient search of large collections of datasets: SBTMH
-  * SBT where leaves are MinHashes
- - Encoding Sequence Bloom Trees in the MerkleDAG
-  * Persistent data structures: https://en.wikipedia.org/wiki/Persistent_data_structure
-  * Adding new versions
- - 
-
-
--->
-
-
 # Keywords
 
-
+similarity
+minhash
+decentralized
+persistent data structures
+sequence bloom trees
+data sharing
+databases
