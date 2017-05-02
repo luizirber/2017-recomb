@@ -1,5 +1,12 @@
 # Decentralized indexes for public genomic data
 
+Luiz Carlos Irber Júnior, C. Titus Brown, Tim Head
+
+@luizirber, @ctb, @betatim
+
+    Department of Population Health and Reproduction, University of California, Davis, USA
+    Head's Wild Tree Tech, Switzerland
+
 Poster presented at [RECOMB 2017][1].
 
 ## Abstract
