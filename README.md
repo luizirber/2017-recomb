@@ -1,11 +1,9 @@
 # Decentralized indexes for public genomic data
 
-Luiz Carlos Irber Júnior, C. Titus Brown, Tim Head
+[Luiz Carlos Irber Júnior](https://github.com/luizirber), [C. Titus Brown](https://github.com/ctb), [Tim Head](https://github.com/betatim)
 
-@luizirber, @ctb, @betatim
-
-    Department of Population Health and Reproduction, University of California, Davis, USA
-    Head's Wild Tree Tech, Switzerland
+- Department of Population Health and Reproduction, University of California, Davis, USA
+- Head's Wild Tree Tech, Switzerland
 
 Poster presented at [RECOMB 2017][1].
 
@@ -33,7 +31,15 @@ We present a prototype showing how this can be achieved.
 
 ## Table of Contents
 
-- [Submitted abstract](abstract.md)
-- [The final poster](poster/poster.pdf)
+- [Introduction](01.intro.md)
+- [Saving a SBTMH in IPFS](02.saving.md)
+- [Sharing datasets in IPFS](03.sharing.md)
+- [Future work](04.future.md)
+- [References](#references)
+- Appendices
+  - [Submitted abstract](abstract.md)
+  - [The final poster](poster/poster.pdf)
+  
+## References
 
 [1]: http://cb.csail.mit.edu/cb/recomb2017/
