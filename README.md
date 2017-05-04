@@ -39,7 +39,16 @@ We present a prototype showing how this can be achieved.
 - Appendices
   - [Submitted abstract](abstract.md)
   - [The final poster](poster/poster.pdf)
-  
+
 ## References
+
+- Benet, Juan. 2014. “IPFS - Content Addressed, Versioned, P2P File System.” arXiv:1407.3561 [Cs], July. http://arxiv.org/abs/1407.3561.
+- Broder, Andrei Z. 1997. “On the Resemblance and Containment of Documents.” - In Compression and Complexity of Sequences 1997. Proceedings, 21–29. IEEE. http://ieeexplore.ieee.org/abstract/document/666900/.
+- GB Editorial Team. 2011. “Closure of the NCBI SRA and Implications for the Long-Term Future of Genomics Data Storage.” Genome Biology 12: 402. doi:10.1186/gb-2011-12-3-402. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3129670/
+- Driscoll, James R., Neil Sarnak, Daniel D. Sleator, and Robert E. Tarjan. 1989. “Making Data Structures Persistent.” Journal of Computer and System Sciences 38 (1): 86–124. https://dx.doi.org/10.1016/0022-0000(89)90034-2
+- Ondov, Brian D., Todd J. Treangen, Páll Melsted, Adam B. Mallonee, Nicholas H. Bergman, Sergey Koren, and Adam M. Phillippy. 2016. “Mash: Fast Genome and Metagenome Distance Estimation Using MinHash.” Genome Biology 17: 132. https://dx.doi.org/10.1186/s13059-016-0997-x
+- Solomon, Brad, and Carl Kingsford. 2016. “Fast Search of Thousands of Short-Read Sequencing Experiments.” Nature Biotechnology 34 (3): 300–302. https://dx.doi.org/10.1038/nbt.3442
+- Titus Brown, C., and Luiz Irber. 2016. “sourmash: A Library for MinHash Sketching of DNA.” The Journal of Open Source Software 1 (5). https://dx.doi.org/10.21105/joss.00027
+
 
 [1]: http://cb.csail.mit.edu/cb/recomb2017/
